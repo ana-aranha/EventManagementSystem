@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ana-aranha/EventManagementSystem-drivent-back.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ana-aranha/EventManagementSystem-drivent-front.git
